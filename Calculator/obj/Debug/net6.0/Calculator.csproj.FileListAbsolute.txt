@@ -1,0 +1,15 @@
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\Lucas Phan\Desktop\Git Repo\SWEN5432\Calculator\obj\Debug\net6.0\ref\Calculator.dll
