@@ -6,14 +6,16 @@ namespace Project
     {
         static void main()
         {
-            float x, y;
+            //float x, y;
+            float x = 0.0f;
+            float y = 0.0f;
             char operation;
 
             Console.WriteLine("Please type in your first integer: ");
-            x = Convert.ToSingle(Console.ReadLine());
+            x = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Now type in your second integer: ");
-            y = Convert.ToSingle(Console.ReadLine());
+            y = float.Parse(Console.ReadLine());
 
             Console.WriteLine("Type in the operator: ");
             operation = Convert.ToChar(Console.ReadLine());
